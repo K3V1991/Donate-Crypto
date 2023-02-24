@@ -1,4 +1,4 @@
-<img src="https://github.com/K3V1991/Donate-Crypto/blob/main/Anime-Girl-Donation-450.png" width="200"></a>
+<img src="https://github.com/K3V1991/Donate-Crypto/blob/main/Anime-Girl-Donation.png" width="200"></a>
 <br />
 
 | Cryptocurrency | Address |
